@@ -80,13 +80,13 @@ Make sure to store your Gemini API Key securely. On Kaggle:
 
 ##  Feedback & Improvements
 
-We’d love your feedback and ideas! Drop a comment or suggest improvements as we continue building MindMate:AI into the perfect motivational partner. 🌈✨
+We’d love your feedback and ideas! Drop a comment or suggest improvements as we continue building MindMate:AI into the perfect motivational partner. 
 
 ---
 
 ## Author
 
-Developed with ❤ by **Lenin**  
+Developed with  by **Lenin**  
 Powered by Gemini API and Colab Widgets
 
 ---
